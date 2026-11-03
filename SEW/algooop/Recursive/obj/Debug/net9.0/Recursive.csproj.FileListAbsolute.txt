@@ -1,0 +1,11 @@
+C:\Users\Dominik\RiderProjects\algooop\Recursive\bin\Debug\net9.0\Recursive.deps.json
+C:\Users\Dominik\RiderProjects\algooop\Recursive\bin\Debug\net9.0\Recursive.dll
+C:\Users\Dominik\RiderProjects\algooop\Recursive\bin\Debug\net9.0\Recursive.pdb
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.AssemblyInfoInputs.cache
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.AssemblyInfo.cs
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.csproj.CoreCompileInputs.cache
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.dll
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\refint\Recursive.dll
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\Recursive.pdb
+C:\Users\Dominik\RiderProjects\algooop\Recursive\obj\Debug\net9.0\ref\Recursive.dll

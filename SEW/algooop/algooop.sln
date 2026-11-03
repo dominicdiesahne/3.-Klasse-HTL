@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursive", "Recursive\Recursive.csproj", "{89CDEBDE-93D2-48BC-9DB7-28C312B769A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgoTest", "AlgoTest\AlgoTest.csproj", "{309D39CE-9B2D-44CE-8530-840E96437CFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchAlgo", "SearchAlgo\SearchAlgo.csproj", "{87B2066A-1C93-4992-8DEA-4DB0BF91AE0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortAlgo", "SortAlgo\SortAlgo.csproj", "{6D83CD9D-1435-4711-9403-19A7795906A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89CDEBDE-93D2-48BC-9DB7-28C312B769A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CDEBDE-93D2-48BC-9DB7-28C312B769A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CDEBDE-93D2-48BC-9DB7-28C312B769A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CDEBDE-93D2-48BC-9DB7-28C312B769A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{309D39CE-9B2D-44CE-8530-840E96437CFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{309D39CE-9B2D-44CE-8530-840E96437CFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{309D39CE-9B2D-44CE-8530-840E96437CFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{309D39CE-9B2D-44CE-8530-840E96437CFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87B2066A-1C93-4992-8DEA-4DB0BF91AE0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87B2066A-1C93-4992-8DEA-4DB0BF91AE0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87B2066A-1C93-4992-8DEA-4DB0BF91AE0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87B2066A-1C93-4992-8DEA-4DB0BF91AE0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D83CD9D-1435-4711-9403-19A7795906A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D83CD9D-1435-4711-9403-19A7795906A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D83CD9D-1435-4711-9403-19A7795906A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D83CD9D-1435-4711-9403-19A7795906A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
