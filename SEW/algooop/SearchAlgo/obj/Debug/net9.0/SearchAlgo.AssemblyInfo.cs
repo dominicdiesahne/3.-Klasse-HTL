@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SearchAlgo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adb62156b872e3b11d270e6b5f99db0a7c2e968b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+666ddc246a1ca06db330eec4b1c73dd8664fab3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("SearchAlgo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SearchAlgo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
