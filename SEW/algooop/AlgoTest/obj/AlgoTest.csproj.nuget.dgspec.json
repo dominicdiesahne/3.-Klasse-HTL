@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\AlgoTest.csproj": {}
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\AlgoTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\AlgoTest.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\AlgoTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\AlgoTest.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\AlgoTest.csproj",
         "projectName": "AlgoTest",
-        "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\AlgoTest.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\AlgoTest.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,11 +26,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj": {
-                "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj"
+              "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj": {
+                "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj"
               },
-              "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
-                "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj"
+              "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
+                "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj"
               }
             }
           }
@@ -92,14 +92,14 @@
         }
       }
     },
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj",
         "projectName": "Recursive",
-        "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -151,14 +151,14 @@
         }
       }
     },
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj",
         "projectName": "SearchAlgo",
-        "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"

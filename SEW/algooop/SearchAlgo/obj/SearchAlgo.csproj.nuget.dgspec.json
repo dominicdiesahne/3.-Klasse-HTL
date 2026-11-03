@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj": {}
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj",
         "projectName": "SearchAlgo",
-        "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\SearchAlgo.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\SearchAlgo.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\SearchAlgo\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\SearchAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"

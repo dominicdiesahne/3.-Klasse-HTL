@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hKN18iQUnnA=",
+  "dgSpecHash": "R+oKN1v1VM0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\AlgoTest\\AlgoTest.csproj",
+  "projectFilePath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\AlgoTest\\AlgoTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dominik\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Dominik\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

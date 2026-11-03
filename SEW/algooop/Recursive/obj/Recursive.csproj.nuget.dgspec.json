@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj": {}
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj",
         "projectName": "Recursive",
-        "projectPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\Recursive.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\Recursive.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dominik\\RiderProjects\\algooop\\Recursive\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\algooop\\Recursive\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"
