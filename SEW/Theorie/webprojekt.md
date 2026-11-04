@@ -45,7 +45,7 @@ public class PlaybookDbContext : DbContext
 // Namen Authors anzulegen. Objekte der Klasse Author werden in dieser Tabelle
 // gespeichert. 
 
-[Table("Author")]
+[Table("AUTHORS")]
 public class Author
 {
     // Die Key Annotation zeichnet die ID Property als Schlüssel aus.
@@ -83,4 +83,10 @@ builder.Services.AddDbContextFactory<PlaybookDbContext>(
 ### 6) Dotnet Tools installieren
 ```
 dotnet tool install --global dotnet-ef --version "9.0.*"
+```
+
+### 7) Befehle zum Generieren der Datenbankstruktur
+```
+dotnet ef -s ..\WebGui\ migrations add InitCreate
+dotnet ef -s ..\WebGui\ database update
 ```
