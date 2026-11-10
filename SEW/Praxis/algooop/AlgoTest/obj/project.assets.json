@@ -842,11 +842,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\AlgoTest.csproj",
+      "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\AlgoTest.csproj",
       "projectName": "AlgoTest",
-      "projectPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\AlgoTest.csproj",
+      "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\AlgoTest.csproj",
       "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\obj\\",
+      "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\AlgoTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -861,11 +861,11 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\Recursive\\Recursive.csproj": {
-              "projectPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\Recursive\\Recursive.csproj"
+            "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\Recursive\\Recursive.csproj": {
+              "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\Recursive\\Recursive.csproj"
             },
-            "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
-              "projectPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SearchAlgo\\SearchAlgo.csproj"
+            "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SearchAlgo\\SearchAlgo.csproj": {
+              "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SearchAlgo\\SearchAlgo.csproj"
             }
           }
         }

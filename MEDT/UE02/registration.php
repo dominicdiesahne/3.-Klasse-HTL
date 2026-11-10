@@ -33,7 +33,7 @@ if ($submitted) {
  
         <div class="card-body">
  
-            <form method="POST" action="ue02-task6-registration.php">
+            <form method="POST" action="registration.php">
  
                 <div class="mb-3">
                     <label for="anrede" class="form-label">Anrede *</label>

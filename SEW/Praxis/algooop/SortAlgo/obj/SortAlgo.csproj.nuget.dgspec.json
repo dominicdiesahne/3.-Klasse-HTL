@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj": {}
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj": {
+    "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj",
+        "projectUniqueName": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj",
         "projectName": "SortAlgo",
-        "projectPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj",
+        "projectPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\SortAlgo.csproj",
         "packagesPath": "C:\\Users\\Dominik\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\obj\\",
+        "outputPath": "C:\\Users\\Dominik\\Desktop\\3.-Klasse-HTL\\SEW\\Praxis\\algooop\\SortAlgo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Dominik\\AppData\\Roaming\\NuGet\\NuGet.Config"
